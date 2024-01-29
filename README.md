@@ -1,4 +1,4 @@
-# MobileStore
+# PCStore
 
 This is demo shop based on React.js as frontend, and Express + MongoDB as backend.
 
